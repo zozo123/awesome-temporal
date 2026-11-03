@@ -319,6 +319,7 @@ Multi-language or language-agnostic samples. (For samples in a specific lang, se
 
 - [Batch Orchestra](https://github.com/drewhoskins/batch-orchestra) - An easy-to-adopt library for scalable, reliable batch processing.  It features pagination, parallelism, and extended retries.
 - [`northpowered/temporal-boost`](https://github.com/northpowered/temporal-boost) - SDK-based framework for more comfortable development with Temporal. FastAPI-style workers, autogenerating documentation, logging and tracing and other.
+- [`boat-openai-agents`](https://github.com/zozo123/boat-openai-agents) - Boat sandbox backend for the OpenAI Agents SDK, usable from Temporal workflows through `SandboxClientProvider`. Sandbox state holds only the sandbox id, so replays and worker moves reconnect to the same sandbox.
 
 ### Tutorials
 
